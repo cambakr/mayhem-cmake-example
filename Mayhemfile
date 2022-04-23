@@ -1,5 +1,6 @@
 project: cambakr/mayhem-cmake-example:lastest
 target: fuzzme
 
+
 cmds:
   - cmd: /fuzzme
